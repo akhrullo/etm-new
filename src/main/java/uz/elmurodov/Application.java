@@ -38,10 +38,4 @@ public class Application {
         }
 
     }
-
-
-    public void hi() {
-        System.out.println("Heloo");
-    }
-
 }
